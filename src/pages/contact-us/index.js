@@ -14,6 +14,7 @@ const contactUs = ({ data }) => {
         />
         <div className="container">
           <div className="mb-10 space-y-3 text-center">
+            test
             <h1 className="text-4xl font-bold">{data.wpPage.title}</h1>
           </div>
           <ContactForm />
