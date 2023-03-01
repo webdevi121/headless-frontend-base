@@ -6,6 +6,7 @@ export default function NotFound() {
     <Layout>
       <div className="container h-[400px]">
         <h1 className="text-center text-3xl font-bold">404</h1>
+        <div>Page note found</div>
       </div>
     </Layout>
   )
